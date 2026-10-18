@@ -62,6 +62,12 @@ A neon-style arcade game built with **C# and Windows Forms**. Move the player pl
 | `SAEK_Game_Project.csproj` | Project configuration |
 | `Texniki_Anafora_Game.docx` | Technical project report |
 
+## 🎬 Gameplay Demo
+
+A gameplay recording is included in the repository:
+
+[View the gameplay video](./Desktop%202026.04.21%20-%2012.46.50.03.mp4)
+
 ## 👨‍💻 Author
 
 **Nikolas Marantas**
